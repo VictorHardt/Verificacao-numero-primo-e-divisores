@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 500px;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    background-color: #FA8072;
+    color: #1C1C1C;
+    font-size: 25px;
+    font-family: arial;
+}
